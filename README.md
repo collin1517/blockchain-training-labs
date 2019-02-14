@@ -1,1 +1,1 @@
-# blockchain-training-labs
+Blockchain Training using Hyperledger Fabric
